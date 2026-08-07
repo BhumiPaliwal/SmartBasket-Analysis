@@ -181,12 +181,6 @@ The project addresses the following business questions:
 
 ---
 
-### Bubble Plot
-
-![Bubble Plot](images/bubbleplot.png)
-
----
-
 ### FacetGrid
 
 ![FacetGrid](images/facetgrid.png)
