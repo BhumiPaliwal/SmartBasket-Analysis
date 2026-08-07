@@ -181,12 +181,6 @@ The project addresses the following business questions:
 
 ---
 
-### FacetGrid
-
-![FacetGrid](images/facetgrid.png)
-
----
-
 # 💡 Key Business Insights
 
 - Beauty & Hygiene contributes the highest overall sales value.
